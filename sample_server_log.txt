@@ -1,0 +1,330 @@
+2026-08-23 10:00:01 INFO [PaymentGateway] Request processed successfully in 114ms
+2026-08-23 10:00:02 INFO [OrderService] Request processed successfully in 106ms
+2026-08-23 10:00:04 INFO [PaymentGateway] Request processed successfully in 23ms
+2026-08-23 10:00:05 INFO [InventoryService] Request processed successfully in 91ms
+2026-08-23 10:00:06 INFO [InventoryService] Cache hit for key=product_3615
+2026-08-23 10:00:07 INFO [OrderService] User session started for user_id=6514
+2026-08-23 10:00:08 INFO [AuthService] Request processed successfully in 65ms
+2026-08-23 10:00:10 INFO [InventoryService] Health check OK
+2026-08-23 10:00:10 INFO [PaymentGateway] Cache hit for key=product_6925
+2026-08-23 10:00:12 INFO [AuthService] Request processed successfully in 104ms
+2026-08-23 10:00:15 INFO [AuthService] User session started for user_id=7227
+2026-08-23 10:00:16 INFO [AuthService] Cache hit for key=product_7065
+2026-08-23 10:00:17 INFO [PaymentGateway] Cache hit for key=product_2169
+2026-08-23 10:00:19 INFO [InventoryService] User session started for user_id=8573
+2026-08-23 10:00:20 INFO [OrderService] User session started for user_id=6313
+2026-08-23 10:00:21 INFO [AuthService] Request processed successfully in 60ms
+2026-08-23 10:00:21 INFO [InventoryService] Cache hit for key=product_9179
+2026-08-23 10:00:24 INFO [PaymentGateway] Health check OK
+2026-08-23 10:00:25 INFO [InventoryService] Cache hit for key=product_8019
+2026-08-23 10:00:26 INFO [OrderService] User session started for user_id=9085
+2026-08-23 10:00:28 INFO [InventoryService] Request processed successfully in 39ms
+2026-08-23 10:00:30 INFO [AuthService] Health check OK
+2026-08-23 10:00:32 INFO [AuthService] Request processed successfully in 107ms
+2026-08-23 10:00:34 INFO [InventoryService] Cache hit for key=product_5808
+2026-08-23 10:00:35 INFO [PaymentGateway] Request processed successfully in 112ms
+2026-08-23 10:00:36 INFO [PaymentGateway] Request processed successfully in 100ms
+2026-08-23 10:00:37 INFO [OrderService] User session started for user_id=9689
+2026-08-23 10:00:39 INFO [AuthService] Health check OK
+2026-08-23 10:00:41 INFO [PaymentGateway] Cache hit for key=product_1949
+2026-08-23 10:00:43 INFO [OrderService] Request processed successfully in 30ms
+2026-08-23 10:00:46 INFO [PaymentGateway] User session started for user_id=8787
+2026-08-23 10:00:47 INFO [PaymentGateway] Health check OK
+2026-08-23 10:00:49 INFO [InventoryService] Health check OK
+2026-08-23 10:00:51 INFO [PaymentGateway] Health check OK
+2026-08-23 10:00:52 INFO [PaymentGateway] Request processed successfully in 95ms
+2026-08-23 10:00:52 INFO [OrderService] Request processed successfully in 49ms
+2026-08-23 10:00:54 INFO [AuthService] Request processed successfully in 85ms
+2026-08-23 10:00:56 INFO [InventoryService] User session started for user_id=3167
+2026-08-23 10:00:57 INFO [OrderService] Health check OK
+2026-08-23 10:00:58 INFO [InventoryService] Health check OK
+2026-08-23 10:00:59 INFO [OrderService] Request processed successfully in 106ms
+2026-08-23 10:01:01 INFO [PaymentGateway] Cache hit for key=product_5073
+2026-08-23 10:01:02 INFO [PaymentGateway] Health check OK
+2026-08-23 10:01:03 INFO [OrderService] User session started for user_id=8260
+2026-08-23 10:01:03 INFO [PaymentGateway] Request processed successfully in 31ms
+2026-08-23 10:01:05 INFO [OrderService] Health check OK
+2026-08-23 10:01:05 INFO [InventoryService] Request processed successfully in 69ms
+2026-08-23 10:01:06 INFO [AuthService] Health check OK
+2026-08-23 10:01:07 INFO [OrderService] Request processed successfully in 94ms
+2026-08-23 10:01:09 INFO [PaymentGateway] Request processed successfully in 26ms
+2026-08-23 10:01:10 INFO [OrderService] Request processed successfully in 43ms
+2026-08-23 10:01:12 INFO [PaymentGateway] User session started for user_id=2964
+2026-08-23 10:01:14 INFO [InventoryService] Request processed successfully in 99ms
+2026-08-23 10:01:15 INFO [AuthService] Cache hit for key=product_4346
+2026-08-23 10:01:16 INFO [InventoryService] Health check OK
+2026-08-23 10:01:17 INFO [OrderService] Request processed successfully in 21ms
+2026-08-23 10:01:18 INFO [PaymentGateway] User session started for user_id=5345
+2026-08-23 10:01:20 INFO [AuthService] Request processed successfully in 51ms
+2026-08-23 10:01:21 INFO [OrderService] Cache hit for key=product_9666
+2026-08-23 10:01:23 INFO [PaymentGateway] Cache hit for key=product_2697
+2026-08-23 10:01:24 INFO [AuthService] Request processed successfully in 115ms
+2026-08-23 10:01:25 INFO [PaymentGateway] User session started for user_id=6617
+2026-08-23 10:01:27 INFO [AuthService] Cache hit for key=product_9004
+2026-08-23 10:01:29 INFO [AuthService] Request processed successfully in 31ms
+2026-08-23 10:01:30 INFO [AuthService] Cache hit for key=product_3143
+2026-08-23 10:01:31 INFO [OrderService] Health check OK
+2026-08-23 10:01:32 INFO [AuthService] User session started for user_id=1590
+2026-08-23 10:01:33 INFO [OrderService] User session started for user_id=3088
+2026-08-23 10:01:34 INFO [PaymentGateway] Request processed successfully in 65ms
+2026-08-23 10:01:36 INFO [PaymentGateway] Cache hit for key=product_7658
+2026-08-23 10:01:38 INFO [InventoryService] User session started for user_id=3900
+2026-08-23 10:01:39 INFO [PaymentGateway] Cache hit for key=product_7745
+2026-08-23 10:01:40 INFO [InventoryService] Request processed successfully in 68ms
+2026-08-23 10:01:41 INFO [PaymentGateway] Health check OK
+2026-08-23 10:01:42 INFO [AuthService] User session started for user_id=6378
+2026-08-23 10:01:44 INFO [InventoryService] Cache hit for key=product_9346
+2026-08-23 10:01:46 INFO [AuthService] Cache hit for key=product_2889
+2026-08-23 10:01:47 INFO [InventoryService] Cache hit for key=product_2776
+2026-08-23 10:01:48 INFO [OrderService] Cache hit for key=product_9379
+2026-08-23 10:01:49 INFO [InventoryService] User session started for user_id=1727
+2026-08-23 10:01:50 INFO [OrderService] User session started for user_id=8066
+2026-08-23 10:01:52 INFO [OrderService] Cache hit for key=product_6143
+2026-08-23 10:01:54 INFO [InventoryService] Cache hit for key=product_6067
+2026-08-23 10:01:55 INFO [PaymentGateway] Cache hit for key=product_3085
+2026-08-23 10:01:57 INFO [AuthService] Health check OK
+2026-08-23 10:01:58 INFO [PaymentGateway] Request processed successfully in 58ms
+2026-08-23 10:01:59 INFO [InventoryService] Cache hit for key=product_8238
+2026-08-23 10:02:01 INFO [OrderService] Health check OK
+2026-08-23 10:02:02 INFO [AuthService] Cache hit for key=product_4848
+2026-08-23 10:02:03 INFO [OrderService] User session started for user_id=1400
+2026-08-23 10:02:04 INFO [InventoryService] Health check OK
+2026-08-23 10:02:06 INFO [InventoryService] User session started for user_id=7291
+2026-08-23 10:02:07 INFO [OrderService] User session started for user_id=1090
+2026-08-23 10:02:09 INFO [InventoryService] User session started for user_id=9486
+2026-08-23 10:02:10 INFO [PaymentGateway] User session started for user_id=8478
+2026-08-23 10:02:12 INFO [InventoryService] Cache hit for key=product_8251
+2026-08-23 10:02:14 INFO [InventoryService] Health check OK
+2026-08-23 10:02:15 INFO [InventoryService] User session started for user_id=5543
+2026-08-23 10:02:17 INFO [AuthService] Cache hit for key=product_2269
+2026-08-23 10:02:18 INFO [OrderService] Cache hit for key=product_9849
+2026-08-23 10:02:18 INFO [PaymentGateway] User session started for user_id=3503
+2026-08-23 10:02:19 INFO [InventoryService] Health check OK
+2026-08-23 10:02:20 INFO [OrderService] User session started for user_id=7381
+2026-08-23 10:02:22 INFO [AuthService] Health check OK
+2026-08-23 10:02:24 INFO [PaymentGateway] Health check OK
+2026-08-23 10:02:25 INFO [OrderService] Cache hit for key=product_8956
+2026-08-23 10:02:26 INFO [InventoryService] Health check OK
+2026-08-23 10:02:29 INFO [OrderService] Request processed successfully in 70ms
+2026-08-23 10:02:30 INFO [OrderService] User session started for user_id=3977
+2026-08-23 10:02:31 INFO [AuthService] Cache hit for key=product_8449
+2026-08-23 10:02:33 INFO [AuthService] Health check OK
+2026-08-23 10:02:35 INFO [OrderService] Health check OK
+2026-08-23 10:02:37 INFO [OrderService] Cache hit for key=product_2124
+2026-08-23 10:02:39 INFO [PaymentGateway] User session started for user_id=1333
+2026-08-23 10:02:40 INFO [PaymentGateway] Health check OK
+2026-08-23 10:02:42 INFO [PaymentGateway] Cache hit for key=product_7043
+2026-08-23 10:02:43 INFO [AuthService] Request processed successfully in 119ms
+2026-08-23 10:02:44 INFO [InventoryService] Request processed successfully in 59ms
+2026-08-23 10:02:47 INFO [OrderService] User session started for user_id=4978
+2026-08-23 10:02:48 INFO [OrderService] Cache hit for key=product_2983
+2026-08-23 10:02:50 INFO [OrderService] Health check OK
+2026-08-23 10:02:51 INFO [InventoryService] Cache hit for key=product_7882
+2026-08-23 10:02:52 INFO [PaymentGateway] Cache hit for key=product_8532
+2026-08-23 10:02:53 INFO [InventoryService] Cache hit for key=product_9817
+2026-08-23 10:02:55 INFO [OrderService] Cache hit for key=product_5022
+2026-08-23 10:02:56 INFO [InventoryService] Health check OK
+2026-08-23 10:02:57 INFO [InventoryService] Health check OK
+2026-08-23 10:02:58 INFO [AuthService] Cache hit for key=product_5581
+2026-08-23 10:02:59 INFO [InventoryService] User session started for user_id=4954
+2026-08-23 10:03:01 INFO [InventoryService] User session started for user_id=8800
+2026-08-23 10:03:02 INFO [PaymentGateway] Request processed successfully in 31ms
+2026-08-23 10:03:04 INFO [InventoryService] User session started for user_id=7046
+2026-08-23 10:03:05 INFO [AuthService] Cache hit for key=product_6419
+2026-08-23 10:03:07 INFO [PaymentGateway] Cache hit for key=product_5118
+2026-08-23 10:03:08 INFO [PaymentGateway] User session started for user_id=2958
+2026-08-23 10:03:09 INFO [AuthService] Health check OK
+2026-08-23 10:03:11 INFO [AuthService] User session started for user_id=4727
+2026-08-23 10:03:12 INFO [PaymentGateway] Request processed successfully in 110ms
+2026-08-23 10:03:13 INFO [PaymentGateway] Request processed successfully in 90ms
+2026-08-23 10:03:15 INFO [AuthService] Health check OK
+2026-08-23 10:03:16 INFO [OrderService] Health check OK
+2026-08-23 10:03:17 INFO [InventoryService] Health check OK
+2026-08-23 10:03:19 INFO [AuthService] Request processed successfully in 39ms
+2026-08-23 10:03:19 INFO [PaymentGateway] User session started for user_id=7818
+2026-08-23 10:03:22 INFO [AuthService] Health check OK
+2026-08-23 10:03:24 INFO [OrderService] Health check OK
+2026-08-23 10:03:26 INFO [AuthService] User session started for user_id=4457
+2026-08-23 10:03:28 INFO [OrderService] User session started for user_id=3847
+2026-08-23 10:03:29 INFO [AuthService] Health check OK
+2026-08-23 10:03:29 INFO [InventoryService] Cache hit for key=product_5632
+2026-08-23 10:03:29 ERROR [PaymentGateway] Database connection refused: retrying (attempt=4241)
+2026-08-23 10:03:30 ERROR [PaymentGateway] Database connection refused: retrying (attempt=5352)
+2026-08-23 10:03:30 ERROR [PaymentGateway] Payment gateway timeout after 4488ms (order_id=3718)
+2026-08-23 10:03:31 ERROR [PaymentGateway] Payment gateway timeout after 7597ms (order_id=3037)
+2026-08-23 10:03:31 ERROR [PaymentGateway] Payment gateway timeout after 7297ms (order_id=5460)
+2026-08-23 10:03:31 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:32 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:32 ERROR [PaymentGateway] Database connection refused: retrying (attempt=1339)
+2026-08-23 10:03:33 ERROR [PaymentGateway] Payment gateway timeout after 8720ms (order_id=1659)
+2026-08-23 10:03:33 ERROR [PaymentGateway] Database connection refused: retrying (attempt=9502)
+2026-08-23 10:03:33 ERROR [PaymentGateway] Payment gateway timeout after 5486ms (order_id=8141)
+2026-08-23 10:03:34 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:34 ERROR [PaymentGateway] Payment gateway timeout after 6630ms (order_id=2713)
+2026-08-23 10:03:35 ERROR [PaymentGateway] Payment gateway timeout after 7372ms (order_id=9117)
+2026-08-23 10:03:35 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:35 ERROR [PaymentGateway] Payment gateway timeout after 6067ms (order_id=6296)
+2026-08-23 10:03:35 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:36 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:36 ERROR [PaymentGateway] Payment gateway timeout after 8083ms (order_id=8242)
+2026-08-23 10:03:37 ERROR [PaymentGateway] Database connection refused: retrying (attempt=9998)
+2026-08-23 10:03:37 ERROR [PaymentGateway] Payment gateway timeout after 7589ms (order_id=8941)
+2026-08-23 10:03:37 ERROR [PaymentGateway] Database connection refused: retrying (attempt=6091)
+2026-08-23 10:03:37 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:38 ERROR [PaymentGateway] Payment gateway timeout after 7780ms (order_id=2924)
+2026-08-23 10:03:38 ERROR [PaymentGateway] Database connection refused: retrying (attempt=5781)
+2026-08-23 10:03:39 ERROR [PaymentGateway] Payment gateway timeout after 7403ms (order_id=8905)
+2026-08-23 10:03:39 ERROR [PaymentGateway] Database connection refused: retrying (attempt=3369)
+2026-08-23 10:03:40 ERROR [PaymentGateway] Database connection refused: retrying (attempt=5526)
+2026-08-23 10:03:40 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:40 ERROR [PaymentGateway] Payment gateway timeout after 6317ms (order_id=5891)
+2026-08-23 10:03:41 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:41 ERROR [PaymentGateway] Payment gateway timeout after 6723ms (order_id=9903)
+2026-08-23 10:03:41 ERROR [PaymentGateway] Payment gateway timeout after 5545ms (order_id=4912)
+2026-08-23 10:03:42 ERROR [PaymentGateway] Database connection refused: retrying (attempt=1715)
+2026-08-23 10:03:42 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:43 ERROR [PaymentGateway] Database connection refused: retrying (attempt=1606)
+2026-08-23 10:03:43 ERROR [PaymentGateway] Payment gateway timeout after 4822ms (order_id=8213)
+2026-08-23 10:03:43 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:43 ERROR [PaymentGateway] Database connection refused: retrying (attempt=8692)
+2026-08-23 10:03:44 ERROR [PaymentGateway] Payment gateway timeout after 6773ms (order_id=7512)
+2026-08-23 10:03:44 ERROR [PaymentGateway] Payment gateway timeout after 8371ms (order_id=7226)
+2026-08-23 10:03:45 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:45 ERROR [PaymentGateway] Database connection refused: retrying (attempt=4727)
+2026-08-23 10:03:46 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:46 ERROR [PaymentGateway] Payment gateway timeout after 4237ms (order_id=1753)
+2026-08-23 10:03:46 ERROR [PaymentGateway] Payment gateway timeout after 6403ms (order_id=6873)
+2026-08-23 10:03:47 ERROR [PaymentGateway] Database connection refused: retrying (attempt=9702)
+2026-08-23 10:03:47 ERROR [PaymentGateway] Database connection refused: retrying (attempt=3868)
+2026-08-23 10:03:47 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:48 ERROR [PaymentGateway] Database connection refused: retrying (attempt=8555)
+2026-08-23 10:03:48 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:48 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:49 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:49 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:50 ERROR [PaymentGateway] Database connection refused: retrying (attempt=8916)
+2026-08-23 10:03:50 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:50 ERROR [PaymentGateway] Payment gateway timeout after 4179ms (order_id=7484)
+2026-08-23 10:03:50 ERROR [PaymentGateway] Payment gateway timeout after 8967ms (order_id=9138)
+2026-08-23 10:03:51 ERROR [PaymentGateway] Payment gateway timeout after 5885ms (order_id=6772)
+2026-08-23 10:03:51 ERROR [PaymentGateway] Database connection refused: retrying (attempt=3240)
+2026-08-23 10:03:52 ERROR [PaymentGateway] Payment gateway timeout after 6530ms (order_id=8222)
+2026-08-23 10:03:52 ERROR [PaymentGateway] Payment gateway timeout after 5076ms (order_id=2476)
+2026-08-23 10:03:52 ERROR [PaymentGateway] Payment gateway timeout after 7403ms (order_id=3877)
+2026-08-23 10:03:52 ERROR [PaymentGateway] Payment gateway timeout after 8348ms (order_id=9221)
+2026-08-23 10:03:53 ERROR [PaymentGateway] Database connection refused: retrying (attempt=8894)
+2026-08-23 10:03:54 ERROR [PaymentGateway] Payment gateway timeout after 6774ms (order_id=2886)
+2026-08-23 10:03:54 ERROR [PaymentGateway] Payment gateway timeout after 5153ms (order_id=4696)
+2026-08-23 10:03:54 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:55 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:55 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:55 ERROR [PaymentGateway] Payment gateway timeout after 4887ms (order_id=4830)
+2026-08-23 10:03:56 ERROR [PaymentGateway] Payment gateway timeout after 8997ms (order_id=4626)
+2026-08-23 10:03:56 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:56 ERROR [PaymentGateway] Payment gateway timeout after 4304ms (order_id=5986)
+2026-08-23 10:03:57 ERROR [PaymentGateway] Payment gateway timeout after 4796ms (order_id=4846)
+2026-08-23 10:03:57 ERROR [PaymentGateway] Database connection refused: retrying (attempt=8432)
+2026-08-23 10:03:58 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:03:58 ERROR [PaymentGateway] Payment gateway timeout after 8008ms (order_id=7686)
+2026-08-23 10:03:59 ERROR [PaymentGateway] Payment gateway timeout after 4268ms (order_id=7070)
+2026-08-23 10:03:59 ERROR [PaymentGateway] NullPointerException in InventoryService.reserve()
+2026-08-23 10:04:00 INFO [OrderService] Cache hit for key=product_6876
+2026-08-23 10:04:01 INFO [OrderService] User session started for user_id=8450
+2026-08-23 10:04:03 INFO [PaymentGateway] Request processed successfully in 26ms
+2026-08-23 10:04:05 INFO [PaymentGateway] User session started for user_id=4394
+2026-08-23 10:04:07 INFO [OrderService] User session started for user_id=3417
+2026-08-23 10:04:08 INFO [AuthService] User session started for user_id=9850
+2026-08-23 10:04:11 INFO [PaymentGateway] Request processed successfully in 104ms
+2026-08-23 10:04:11 INFO [OrderService] User session started for user_id=6304
+2026-08-23 10:04:12 INFO [OrderService] Request processed successfully in 36ms
+2026-08-23 10:04:14 INFO [OrderService] Health check OK
+2026-08-23 10:04:15 INFO [AuthService] User session started for user_id=1710
+2026-08-23 10:04:17 INFO [InventoryService] Request processed successfully in 27ms
+2026-08-23 10:04:18 INFO [OrderService] Request processed successfully in 82ms
+2026-08-23 10:04:20 INFO [OrderService] Cache hit for key=product_3430
+2026-08-23 10:04:21 INFO [AuthService] Cache hit for key=product_9692
+2026-08-23 10:04:23 INFO [PaymentGateway] Health check OK
+2026-08-23 10:04:24 INFO [InventoryService] User session started for user_id=6553
+2026-08-23 10:04:25 INFO [AuthService] Request processed successfully in 60ms
+2026-08-23 10:04:27 INFO [OrderService] Cache hit for key=product_8770
+2026-08-23 10:04:28 INFO [OrderService] Request processed successfully in 31ms
+2026-08-23 10:04:30 INFO [AuthService] Cache hit for key=product_1982
+2026-08-23 10:04:32 INFO [OrderService] Health check OK
+2026-08-23 10:04:34 INFO [PaymentGateway] Cache hit for key=product_2697
+2026-08-23 10:04:35 INFO [AuthService] Health check OK
+2026-08-23 10:04:37 INFO [PaymentGateway] Cache hit for key=product_5564
+2026-08-23 10:04:39 INFO [OrderService] Request processed successfully in 97ms
+2026-08-23 10:04:40 INFO [OrderService] Cache hit for key=product_6751
+2026-08-23 10:04:41 INFO [OrderService] User session started for user_id=7566
+2026-08-23 10:04:42 INFO [PaymentGateway] Request processed successfully in 31ms
+2026-08-23 10:04:43 INFO [AuthService] Health check OK
+2026-08-23 10:04:44 INFO [OrderService] Cache hit for key=product_2391
+2026-08-23 10:04:45 INFO [AuthService] Request processed successfully in 106ms
+2026-08-23 10:04:46 INFO [InventoryService] Health check OK
+2026-08-23 10:04:47 INFO [OrderService] Request processed successfully in 64ms
+2026-08-23 10:04:48 INFO [OrderService] Health check OK
+2026-08-23 10:04:49 INFO [AuthService] Request processed successfully in 20ms
+2026-08-23 10:04:52 INFO [AuthService] User session started for user_id=5186
+2026-08-23 10:04:53 INFO [PaymentGateway] Request processed successfully in 83ms
+2026-08-23 10:04:54 INFO [OrderService] User session started for user_id=6802
+2026-08-23 10:04:55 INFO [InventoryService] Request processed successfully in 75ms
+2026-08-23 10:04:57 INFO [InventoryService] Cache hit for key=product_8033
+2026-08-23 10:04:59 INFO [InventoryService] Health check OK
+2026-08-23 10:05:00 INFO [AuthService] Cache hit for key=product_8538
+2026-08-23 10:05:00 INFO [InventoryService] Request processed successfully in 51ms
+2026-08-23 10:05:02 INFO [PaymentGateway] Health check OK
+2026-08-23 10:05:03 INFO [OrderService] User session started for user_id=9363
+2026-08-23 10:05:05 INFO [AuthService] User session started for user_id=6724
+2026-08-23 10:05:07 INFO [PaymentGateway] User session started for user_id=2684
+2026-08-23 10:05:08 INFO [OrderService] User session started for user_id=3504
+2026-08-23 10:05:08 INFO [AuthService] Health check OK
+2026-08-23 10:05:11 INFO [OrderService] Cache hit for key=product_8205
+2026-08-23 10:05:12 INFO [AuthService] Cache hit for key=product_1920
+2026-08-23 10:05:14 INFO [OrderService] Cache hit for key=product_8404
+2026-08-23 10:05:14 INFO [InventoryService] Cache hit for key=product_2479
+2026-08-23 10:05:16 INFO [AuthService] Request processed successfully in 77ms
+2026-08-23 10:05:17 INFO [OrderService] User session started for user_id=8381
+2026-08-23 10:05:19 INFO [PaymentGateway] Cache hit for key=product_2381
+2026-08-23 10:05:20 INFO [PaymentGateway] Health check OK
+2026-08-23 10:05:21 INFO [AuthService] Cache hit for key=product_7697
+2026-08-23 10:05:23 INFO [OrderService] Request processed successfully in 100ms
+2026-08-23 10:05:24 INFO [PaymentGateway] Health check OK
+2026-08-23 10:05:25 INFO [InventoryService] User session started for user_id=6082
+2026-08-23 10:05:26 INFO [AuthService] Request processed successfully in 59ms
+2026-08-23 10:05:28 INFO [AuthService] Request processed successfully in 102ms
+2026-08-23 10:05:29 INFO [AuthService] Cache hit for key=product_4509
+2026-08-23 10:05:31 INFO [PaymentGateway] Health check OK
+2026-08-23 10:05:32 INFO [OrderService] Cache hit for key=product_2657
+2026-08-23 10:05:34 INFO [PaymentGateway] User session started for user_id=7172
+2026-08-23 10:05:35 INFO [OrderService] User session started for user_id=8170
+2026-08-23 10:05:36 INFO [InventoryService] User session started for user_id=5668
+2026-08-23 10:05:37 INFO [PaymentGateway] User session started for user_id=8684
+2026-08-23 10:05:38 INFO [InventoryService] Health check OK
+2026-08-23 10:05:40 INFO [PaymentGateway] Health check OK
+2026-08-23 10:05:42 INFO [AuthService] Request processed successfully in 102ms
+2026-08-23 10:05:44 INFO [OrderService] Request processed successfully in 111ms
+2026-08-23 10:05:45 INFO [PaymentGateway] User session started for user_id=8361
+2026-08-23 10:05:47 INFO [AuthService] Request processed successfully in 48ms
+2026-08-23 10:05:49 INFO [AuthService] Health check OK
+2026-08-23 10:05:50 INFO [OrderService] Request processed successfully in 67ms
+2026-08-23 10:05:51 INFO [PaymentGateway] Request processed successfully in 111ms
+2026-08-23 10:05:52 INFO [InventoryService] Cache hit for key=product_3273
+2026-08-23 10:05:53 INFO [AuthService] Request processed successfully in 30ms
+2026-08-23 10:05:54 INFO [InventoryService] User session started for user_id=9647
+2026-08-23 10:05:55 INFO [OrderService] Cache hit for key=product_5934
+2026-08-23 10:05:56 INFO [OrderService] Health check OK
+2026-08-23 10:05:56 INFO [OrderService] Health check OK
+2026-08-23 10:05:58 INFO [AuthService] User session started for user_id=3352
+2026-08-23 10:06:00 INFO [PaymentGateway] Cache hit for key=product_7825
+2026-08-23 10:06:01 INFO [OrderService] Request processed successfully in 87ms
+2026-08-23 10:06:04 INFO [OrderService] Request processed successfully in 69ms
+2026-08-23 10:06:06 INFO [AuthService] Cache hit for key=product_1266
+2026-08-23 10:06:08 INFO [AuthService] Cache hit for key=product_2698
+2026-08-23 10:06:08 INFO [PaymentGateway] Cache hit for key=product_6546
+2026-08-23 10:06:11 INFO [PaymentGateway] Health check OK
+2026-08-23 10:06:13 INFO [OrderService] Request processed successfully in 111ms
+2026-08-23 10:06:14 INFO [AuthService] Request processed successfully in 45ms
+2026-08-23 10:06:16 INFO [AuthService] Health check OK
+2026-08-23 10:06:17 INFO [OrderService] User session started for user_id=6848
+2026-08-23 10:06:19 INFO [AuthService] Cache hit for key=product_3039
+2026-08-23 10:06:20 INFO [InventoryService] Health check OK

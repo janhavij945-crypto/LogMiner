@@ -1,0 +1,11 @@
+2026-09-03 13:00:01 INFO [UserService] User login successful
+2026-09-03 13:00:02 ERROR [AuthService] Login failed for user
+2026-09-03 13:00:03 ERROR [AuthService] Invalid username or password
+2026-09-03 13:00:04 ERROR [AuthService] Login failed for user
+2026-09-03 13:00:05 ERROR [AuthService] Authentication failed
+2026-09-03 13:00:06 ERROR [AuthService] Invalid username or password
+2026-09-03 13:00:07 ERROR [AuthService] Login failed for user
+2026-09-03 13:00:08 ERROR [AuthService] Authentication failed
+2026-09-03 13:00:09 ERROR [AuthService] Invalid username or password
+2026-09-03 13:00:10 ERROR [AuthService] Login failed for user
+2026-09-03 13:00:11 INFO [UserService] User login successful

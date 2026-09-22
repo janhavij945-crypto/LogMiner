@@ -1,0 +1,11 @@
+2026-09-03 15:00:01 INFO [ServerService] Server request processed successfully
+2026-09-03 15:00:02 ERROR [ServerService] Critical server failure detected
+2026-09-03 15:00:03 ERROR [ServerService] Server process crashed unexpectedly
+2026-09-03 15:00:04 ERROR [ServerService] Service unavailable
+2026-09-03 15:00:05 ERROR [ServerService] Critical server failure detected
+2026-09-03 15:00:06 ERROR [ServerService] Server process crashed unexpectedly
+2026-09-03 15:00:07 ERROR [ServerService] Service unavailable
+2026-09-03 15:00:08 ERROR [ServerService] Server restart required
+2026-09-03 15:00:09 ERROR [ServerService] Critical server failure detected
+2026-09-03 15:00:10 ERROR [ServerService] Server process crashed unexpectedly
+2026-09-03 15:00:11 INFO [ServerService] Server restarted successfully

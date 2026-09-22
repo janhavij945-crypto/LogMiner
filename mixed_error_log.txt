@@ -1,0 +1,11 @@
+2026-09-03 17:00:01 INFO [OrderService] Request processed successfully in 45ms
+2026-09-03 17:00:02 ERROR [PaymentGateway] Payment transaction failed
+2026-09-03 17:00:03 ERROR [DatabaseService] Database connection failed
+2026-09-03 17:00:04 ERROR [AuthService] Authentication failed
+2026-09-03 17:00:05 ERROR [NetworkService] Connection timeout
+2026-09-03 17:00:06 ERROR [PaymentGateway] Payment gateway unavailable
+2026-09-03 17:00:07 ERROR [DatabaseService] Database query timeout
+2026-09-03 17:00:08 ERROR [AuthService] Invalid username or password
+2026-09-03 17:00:09 ERROR [NetworkService] Network connection failed
+2026-09-03 17:00:10 ERROR [ServerService] Critical server failure detected
+2026-09-03 17:00:11 INFO [OrderService] Request processed successfully in 48ms

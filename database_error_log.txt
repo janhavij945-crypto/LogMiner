@@ -1,0 +1,11 @@
+2026-09-03 12:00:01 INFO [OrderService] Request processed successfully in 45ms
+2026-09-03 12:00:02 ERROR [DatabaseService] Database connection failed
+2026-09-03 12:00:03 ERROR [DatabaseService] Database query timeout
+2026-09-03 12:00:04 ERROR [DatabaseService] Database connection failed
+2026-09-03 12:00:05 ERROR [DatabaseService] Unable to connect to database server
+2026-09-03 12:00:06 ERROR [DatabaseService] Database query timeout
+2026-09-03 12:00:07 ERROR [DatabaseService] Database connection failed
+2026-09-03 12:00:08 ERROR [DatabaseService] Database server unavailable
+2026-09-03 12:00:09 ERROR [DatabaseService] Database query timeout
+2026-09-03 12:00:10 ERROR [DatabaseService] Database connection failed
+2026-09-03 12:00:11 INFO [OrderService] Request processed successfully in 48ms

@@ -1,0 +1,11 @@
+2026-09-03 18:00:01 INFO [OrderService] Request processed successfully in 45ms
+2026-09-03 18:00:02 INFO [PaymentGateway] Payment processed successfully in 55ms
+2026-09-03 18:00:03 ERROR [PaymentGateway] Payment gateway timeout
+2026-09-03 18:00:04 ERROR [PaymentGateway] Payment transaction failed
+2026-09-03 18:00:05 ERROR [PaymentGateway] Payment gateway timeout
+2026-09-03 18:00:06 ERROR [PaymentGateway] Payment transaction failed
+2026-09-03 18:00:07 ERROR [PaymentGateway] Payment gateway unavailable
+2026-09-03 18:00:08 INFO [PaymentGateway] Payment service recovering
+2026-09-03 18:00:09 INFO [PaymentGateway] Payment processed successfully in 60ms
+2026-09-03 18:00:10 INFO [OrderService] Request processed successfully in 48ms
+2026-09-03 18:00:11 INFO [PaymentGateway] Payment service operating normally

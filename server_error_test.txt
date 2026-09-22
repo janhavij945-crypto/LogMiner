@@ -1,0 +1,11 @@
+2026-09-03 11:00:00 INFO Server started successfully
+2026-09-03 11:01:00 INFO Request received endpoint=/home
+2026-09-03 11:02:00 INFO Request processed successfully
+2026-09-03 11:03:00 INFO Request received endpoint=/login
+2026-09-03 11:04:00 ERROR HTTP 500 Internal Server Error
+2026-09-03 11:05:00 ERROR HTTP 500 Internal Server Error
+2026-09-03 11:06:00 ERROR HTTP 500 Internal Server Error
+2026-09-03 11:07:00 WARNING Server response time increased
+2026-09-03 11:08:00 ERROR Database connection failed
+2026-09-03 11:09:00 ERROR HTTP 500 Internal Server Error
+2026-09-03 11:10:00 INFO Server recovered successfully

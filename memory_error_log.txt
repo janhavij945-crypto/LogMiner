@@ -1,0 +1,11 @@
+2026-09-03 16:00:01 INFO [ServerService] Request processed successfully in 45ms
+2026-09-03 16:00:02 ERROR [MemoryService] Out of memory error detected
+2026-09-03 16:00:03 ERROR [MemoryService] Memory allocation failed
+2026-09-03 16:00:04 ERROR [MemoryService] Insufficient memory available
+2026-09-03 16:00:05 ERROR [MemoryService] Out of memory error detected
+2026-09-03 16:00:06 ERROR [MemoryService] Memory allocation failed
+2026-09-03 16:00:07 ERROR [MemoryService] Memory usage exceeded limit
+2026-09-03 16:00:08 ERROR [MemoryService] Insufficient memory available
+2026-09-03 16:00:09 ERROR [MemoryService] Out of memory error detected
+2026-09-03 16:00:10 ERROR [MemoryService] Memory allocation failed
+2026-09-03 16:00:11 INFO [ServerService] Memory usage returned to normal
